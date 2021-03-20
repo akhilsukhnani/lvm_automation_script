@@ -12,7 +12,7 @@
     => To display all Volume Groups<br />
     => To create a Volume Group<br />
     => To display all the Physical Volumes<br />
-    => To create a Physical Volumes<br />
+    => To create a Physical Volume<br />
     => To extend the size of a partition<br />
     => To decrease the size of partition<br />
     => To create a Volume Group<br />
