@@ -19,6 +19,6 @@
 
 <img src='https://raw.githubusercontent.com/akhilsukhnani/lvm_automation_script/main/Screenshot%20(365).png'>
 
-It is a menu based python program/script which enables user to do all the tasks related to LVM without knowing the actual commands of LVM and detailed information about Physical Volumes , Volume Groups and Logical Volumes for the ease of user. 
+It is a menu based python program/script which enables user to do all the tasks related to LVM without knowing the actual commands of LVM and provides detailed information about Physical Volumes , Volume Groups and Logical Volumes at every step possible for the ease of user. 
 
 If you liked my script don't forget to star the repository
