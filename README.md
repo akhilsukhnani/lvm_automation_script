@@ -6,16 +6,16 @@
 ---><b>An external separate hard-disk for creating LVM</b><br />
 
 <H2>This script can perform the following tasks:-</H2>
-    => To Create a Logical Volume
-    => To Check all the existing block devices
-    => To diplay all the logical volumes
-    => To display all Volume Groups
-    => To create a Volume Group
-    => To display all the Physical Volumes
-    => To create a Physical Volumes
-    => To extend the size of a partition
-    => To decrease the size of partition
-    => To create a Volume Group
+    => To Create a Logical Volume<br />
+    => To Check all the existing block devices<br />
+    => To diplay all the logical volumes<br />
+    => To display all Volume Groups<br />
+    => To create a Volume Group<br />
+    => To display all the Physical Volumes<br />
+    => To create a Physical Volumes<br />
+    => To extend the size of a partition<br />
+    => To decrease the size of partition<br />
+    => To create a Volume Group<br />
 
 <img src='https://raw.githubusercontent.com/akhilsukhnani/lvm_automation_script/main/Screenshot%20(365).png'>
 
